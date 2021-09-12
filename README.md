@@ -1,14 +1,11 @@
 ### Hi there 👋
-<!--
-**devMooon/devMooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 'secret' web project
 - 🌱 I’m currently learning "JAVA", "C++", "Django", "Linux", "data structure"...
 - 😄 I'm interested in web front development.
 - ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃
--->
+
+
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon)
 
 
