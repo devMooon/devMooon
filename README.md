@@ -1,10 +1,9 @@
 ### Hi there 👋
-My name is Seoyeon Mun.
+My name is Seoyeon Mun.<br>
 Nowadays I'm interested in web front development.<br>
-Currently 'secret' project is in progress!
-
-My goal is to plant at least one lawn each day!! 🧐🍃
-thank you.
+Currently 'secret' project is in progress!<br>
+My goal is to plant at least one lawn each day!! 🧐🍃<br>
+thank you.<br>
 
 <!--
 **devMooon/devMooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
