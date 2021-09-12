@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 'secret' web project
+- 🔭 I’m currently working on 'secret' web project.
 - 🌱 I’m currently learning "JAVA", "C++", "Django", "Linux", "data structure"...
 - 😄 I'm interested in web front development.
 - ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃
