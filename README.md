@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Seoyeon Mun.
+My name is Seoyeon Mun.
 ## Nowadays I'm interested in web front development.
 ## Currently 'Secret' project is in progress!
 
