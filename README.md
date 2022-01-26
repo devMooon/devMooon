@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seoyeon's%20Git&fontSize=90)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on 'secret' web project.
