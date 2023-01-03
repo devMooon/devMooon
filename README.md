@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seoyeon's%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%30Seoyeon's%30Git!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 
 ### Hi there 👋
 
