@@ -2,11 +2,13 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20Seoyeon's%20Git!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
-
-### Hi there 👋
-
-<a href="https://devmooon.github.io/">
-  <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
+ <div align=center><h1>💖Introduce💖</h1></div>
+ <div align=center>
+  <a href="https://devmooon.github.io/">
+    <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+ <h3>Hi there 👋</h3>
  
 - 💻 I'm a computer engineering major.
 - 📚 I'm a computer education major.
