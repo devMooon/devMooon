@@ -1,12 +1,13 @@
+
+  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20Seoyeon's%20Git!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
 
 ### Hi there 👋
 
-<a href="devMooon.github.io">
+<a href="https://devmooon.github.io/">
   <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
-<a>
-  
+ 
 - 💻 I'm a computer engineering major.
 - 📚 I'm a computer education major.
 
@@ -15,6 +16,7 @@
 - 😄 I'm interested in web front development!!
 - ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃
 
+ 
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon)
 
 <div align=center><h1>📚 STACKS</h1></div>
