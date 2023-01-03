@@ -1,10 +1,8 @@
-
-  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20Seoyeon's%20Git!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
 <br>
 
- <div align=center><h1>💖Introduce💖</h1></div>
+ <div align=center><h1>💖INTRODUCE💖</h1></div>
  <div align=right>
   <a href="https://devmooon.github.io/">
     <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
@@ -47,5 +45,7 @@
  </div>
  
  
+<h1></h1>
+ 
 ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon)
-  
+
