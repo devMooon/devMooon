@@ -2,6 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20Seoyeon's%20Git!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
+<br>
+
  <div align=center><h1>💖Introduce💖</h1></div>
  <div align=right>
   <a href="https://devmooon.github.io/">
@@ -18,9 +20,8 @@
 - 😄 I'm interested in web front development!!
 - ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃
 
- 
-![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon)
 
+<br>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <br>
@@ -44,4 +45,7 @@
  <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
  </div>
+ 
+ 
+![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon)
   
