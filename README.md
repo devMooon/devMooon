@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 <a href="devMooon.github.io">
-  <img src="https://img.shields.io/badge&logo=moon._log&logoColor=Wihte"/>
+  <img src="https://img.shields.io/badge/#181717?style=for-the-badge&logo=moon._log&logoColor=white">
 <a>
   
 - 💻 I'm a computer engineering major.
