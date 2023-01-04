@@ -51,8 +51,7 @@
 
 <h1></h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon&layout=compact)](https://github.com/devMooon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMooon&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMooon&layout=compact)](https://github.com/devMooon/github-readme-stats)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anstjdus0702)](https://solved.ac/anstjdus0702/) -->
 
 
