@@ -3,11 +3,10 @@
 <br>
  <div align=center><h1>💖INTRODUCE💖</h1></div>
  <div align=right>
-  <img src="https://img.shields.io/badge/anstjdus0702@duksung.ac.kr-blue?style=flat-square&logo=gmail&logoColor=white">
   <a href="https://devmooon.github.io/">
-    <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/moon._log-yellow?style=flat-square&logo=github&logoColor=white">
   </a>
-
+  <img src="https://img.shields.io/badge/anstjdus0702@duksung.ac.kr-skyblue?style=flat-square&logo=gmail&logoColor=white">
 </div>
  <h3>Hi there 👋</h3>
  
