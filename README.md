@@ -6,7 +6,7 @@
   <a href="https://devmooon.github.io/">
     <img src="https://img.shields.io/badge/moon._log-yellow?style=flat-square&logo=github&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/anstjdus0702@duksung.ac.kr-blue?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/document2r@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
 </div>
  <h3>Hi there 👋</h3>
  
