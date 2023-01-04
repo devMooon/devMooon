@@ -1,28 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20Seoyeon's%20Git!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
 <br>
-
  <div align=center><h1>💖INTRODUCE💖</h1></div>
  <div align=right>
+ <img src="https://img.shields.io/badge/anstjdus0702@duksung.ac.kr-blue?style=flat-square&logo=gmail&logoColor=white">
   <a href="https://devmooon.github.io/">
     <img src="https://img.shields.io/badge/moon._log-yellow?style=for-the-badge&logo=github&logoColor=white">
+   
   </a>
+ <div>
+  <img src="https://img.shields.io/badge/anstjdus0702@duksung.ac.kr-skyblue?style=flat-square&logo=gmail&logoColor=white">
+ </div>
 </div>
  <h3>Hi there 👋</h3>
  
 - 💻 I'm a computer engineering major.
 - 📚 I'm a computer education major.
 
-- 🔭 I’m currently working on 'secret' web project.
-- 🌱 I’m currently learning "JAVA", "C++", "Django", "Linux", "data structure"...
-- 😄 I'm interested in web front development!!
-- ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃
+<!-- - 🔭 I’m currently working on 'secret' web project.-->
+<!-- - 🌱 I’m currently learning "JAVA", "C++", "Django", "Linux", "data structure"...-->
+<!-- - 😄 I'm interested in web front development!!-->
+<!-- - ⚡ Fun fact: My goal is to plant at least one lawn each day!! 🧐🍃-->
 
 
 <br>
 <div align=center><h1>📚STACKS📚</h1></div>
 
 <br>
+<div align=center><b><h3>Languages</h3></b></div>
+<div align=center><b><h3>Platforms</h3></b></div>
+<div align=center><b><h3>Platforms</h3></b></div>
 <div align=center>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black"> 
